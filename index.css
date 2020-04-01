@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
+body {
+    font-size: 16px;
+    font-family: Karla;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.cyan-background {
+    background-color: hsl(179, 62%, 43%);
+}
+
+.grayish-blue-background {
+    background-color: hsl(218, 22%, 67%);
+}
+
+.bright-yellow-background {
+    background-color: hsl(71, 73%, 54%);
+}
+
+.light-gray-background {
+    background-color: hsl(204, 43%, 93%);
+}
+
+.section {}
+
+section {
+    padding: 10px;
+}
+
+@media screen and (min-width: 600px) {
+    body {
+        width: 90%;
+        margin: 0 auto;
+    }
+}
