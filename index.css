@@ -17,19 +17,25 @@ body {
     background-color: hsl(179, 62%, 43%);
 }
 
+.cyan {
+    color: hsl(179, 62%, 43%);
+}
+
 .grayish-blue-background {
     background-color: hsl(218, 22%, 67%);
 }
 
-.bright-yellow-background {
-    background-color: hsl(71, 73%, 54%);
+.bright-yellow {
+    color: hsl(71, 73%, 54%);
 }
 
 .light-gray-background {
     background-color: hsl(204, 43%, 93%);
 }
 
-.section {}
+.white-background {
+    background-color: white;
+}
 
 section {
     padding: 10px;
